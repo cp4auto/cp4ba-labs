@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: UsrXXX Client Onboarding App Core
+  title: Usr051 Client Onboarding App Core
   version: tipSnapshot
   description: UsrXXX Client Onboarding Skills Core
   x-ibm-application-id: CP4BACoreUsrXXX
