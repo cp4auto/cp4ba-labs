@@ -2,9 +2,9 @@ openapi: 3.0.1
 info:
   title: Usr051 Client Onboarding App Core
   version: tipSnapshot
-  description: UsrXXX Client Onboarding Skills Core
-  x-ibm-application-id: CP4BACoreUsrXXX
-  x-ibm-application-name: UsrXXX Client Onboarding App Core
+  description: Usr051 Client Onboarding Skills Core
+  x-ibm-application-id: CP4BACoreUsr051
+  x-ibm-application-name: Usr051 Client Onboarding App Core
   x-ibm-application-icon: >-
     <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink" width="103" height="113"><image
